@@ -15,10 +15,10 @@ function Footer() {
             <div className="footer__left">
                 <img 
                     className='footer__albumLogo'
-                    src="https://i.mdel.net/i/db/2019/12/1255378/1255378-800w.jpg" alt="" />
+                    src="https://upload.wikimedia.org/wikipedia/en/e/e6/The_Weeknd_-_Blinding_Lights.png" alt="" />
                 <div className='footer__songInfo'>
-                    <h4>NFUnckuy</h4>
-                    <p>by Junkie</p>
+                    <h4>Blinding Lights</h4>
+                    <p>by The Weeknd</p>
                 </div>
 
             </div>
